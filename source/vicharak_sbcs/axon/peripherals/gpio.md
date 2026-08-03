@@ -246,7 +246,7 @@ where, 14 is GPIO Line ( 78 - 64 )
 
 ### How to change Functionality of GPIO Pin Like, UART, I2C etc  ?
 
-For this refer [UART](https://docs.vicharak.in/vicharak_sbcs/axon/peripherals/uart/) and [I2C](https://docs.vicharak.in/vicharak_sbcs/axon/peripherals/i2c/) section which have overlay option on vicharak-config.
+For this refer [UART](https://docs.vicharak.in/vicharak_sbcs/axon/peripherals/uart/) and [I2C](https://docs.vicharak.in/vicharak_sbcs/axon/peripherals/i2c/) section which have `overlay`, on `vicharak-config`.
 
 :::{seealso}
 https://en.wikipedia.org/wiki/General-purpose_input/output
