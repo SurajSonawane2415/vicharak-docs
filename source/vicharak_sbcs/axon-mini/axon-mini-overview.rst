@@ -27,7 +27,7 @@ The Axon Mini Single Board Computer (SBC) offers a range of hardware features, i
    * - Storage
      - | Onboard 32 GB high-speed eMMC 5.1
        | Modular UFS 3.1 storage module (via 2x 30-pin B2B connector)
-       | PCIe 3.0 x1 NVMe storage via B2B connector
+       | PCIe 3.0 x2 NVMe storage via B2B connector
    * - DSP/NPU
      - Hexagon DSP and 12 TOPS NPU
    * - GPU
@@ -57,8 +57,8 @@ The Axon Mini Single Board Computer (SBC) offers a range of hardware features, i
      - | 4 X MIPI CSI [4 lanes] at 2.5 Gbps per lane via 30-pin B2B
        | 1 X MIPI CSI [4 lanes] at 2.5 Gbps per lane via 22-pin FPC
    * - PCIE
-     - | PCIe 3.0 x1 via B2B Connector for M.Key, E.Key and B.Key Modules
-       | PCIe 3.0 x1 via B2B Connector for USB 3.0 and Ethernet port Modules
+     - | PCIe 3.0 x2 via B2B Connector for M.Key, E.Key and B.Key Modules
+       | PCIe 3.0 x2 via B2B Connector for USB 3.0 and Ethernet port Modules
    * - USB
      - | 2 X USB 2.0 Type-A
        | 1 X TYPE-C USB 3.1 Gen 1 (5 Gbps) with DisplayPort Alt Mode
